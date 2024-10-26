@@ -9,3 +9,5 @@ View the optimal layout for the interface depending on their device's screen siz
 Download the project and go through the README.md file. This will provide further details about the project and help you set it up.
 
 Want some support on the challenge? Join our community and ask questions in the help channel.
+![sxzfwoarhrwt3gnz4qyg](https://github.com/user-attachments/assets/c59b35e3-692a-47dc-bdc3-1fa23fc28fa2)
+![qqva4jkflfk6hw2jvaia](https://github.com/user-attachments/assets/347e876d-932e-4d3f-acf6-d45110ebebe5)
